@@ -1,6 +1,10 @@
 team: LG
+<<<<<<< HEAD
 manager: 임희진
 coach: 이길동
+manager: 염경엽
+coach: 박길동
+>>>>>>> conflict-1
 
 members:
 - 고우석
